@@ -1,0 +1,15 @@
+D:\Bootcamp\Formulatrix\dictionary\obj\Debug\net7.0\dictionary.csproj.AssemblyReference.cache
+D:\Bootcamp\Formulatrix\dictionary\obj\Debug\net7.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp\Formulatrix\dictionary\obj\Debug\net7.0\dictionary.AssemblyInfoInputs.cache
+D:\Bootcamp\Formulatrix\dictionary\obj\Debug\net7.0\dictionary.AssemblyInfo.cs
+D:\Bootcamp\Formulatrix\dictionary\obj\Debug\net7.0\dictionary.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Formulatrix\dictionary\bin\Debug\net7.0\dictionary.exe
+D:\Bootcamp\Formulatrix\dictionary\bin\Debug\net7.0\dictionary.deps.json
+D:\Bootcamp\Formulatrix\dictionary\bin\Debug\net7.0\dictionary.runtimeconfig.json
+D:\Bootcamp\Formulatrix\dictionary\bin\Debug\net7.0\dictionary.dll
+D:\Bootcamp\Formulatrix\dictionary\bin\Debug\net7.0\dictionary.pdb
+D:\Bootcamp\Formulatrix\dictionary\obj\Debug\net7.0\dictionary.dll
+D:\Bootcamp\Formulatrix\dictionary\obj\Debug\net7.0\refint\dictionary.dll
+D:\Bootcamp\Formulatrix\dictionary\obj\Debug\net7.0\dictionary.pdb
+D:\Bootcamp\Formulatrix\dictionary\obj\Debug\net7.0\dictionary.genruntimeconfig.cache
+D:\Bootcamp\Formulatrix\dictionary\obj\Debug\net7.0\ref\dictionary.dll
