@@ -1,0 +1,15 @@
+D:\Bootcamp\Formulatrix\randomnumber\obj\Debug\net7.0\randomnumber.csproj.AssemblyReference.cache
+D:\Bootcamp\Formulatrix\randomnumber\obj\Debug\net7.0\randomnumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp\Formulatrix\randomnumber\obj\Debug\net7.0\randomnumber.AssemblyInfoInputs.cache
+D:\Bootcamp\Formulatrix\randomnumber\obj\Debug\net7.0\randomnumber.AssemblyInfo.cs
+D:\Bootcamp\Formulatrix\randomnumber\obj\Debug\net7.0\randomnumber.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Formulatrix\randomnumber\bin\Debug\net7.0\randomnumber.exe
+D:\Bootcamp\Formulatrix\randomnumber\bin\Debug\net7.0\randomnumber.deps.json
+D:\Bootcamp\Formulatrix\randomnumber\bin\Debug\net7.0\randomnumber.runtimeconfig.json
+D:\Bootcamp\Formulatrix\randomnumber\bin\Debug\net7.0\randomnumber.dll
+D:\Bootcamp\Formulatrix\randomnumber\bin\Debug\net7.0\randomnumber.pdb
+D:\Bootcamp\Formulatrix\randomnumber\obj\Debug\net7.0\randomnumber.dll
+D:\Bootcamp\Formulatrix\randomnumber\obj\Debug\net7.0\refint\randomnumber.dll
+D:\Bootcamp\Formulatrix\randomnumber\obj\Debug\net7.0\randomnumber.pdb
+D:\Bootcamp\Formulatrix\randomnumber\obj\Debug\net7.0\randomnumber.genruntimeconfig.cache
+D:\Bootcamp\Formulatrix\randomnumber\obj\Debug\net7.0\ref\randomnumber.dll

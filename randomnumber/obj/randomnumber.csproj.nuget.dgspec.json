@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Bootcamp\\Formulatrix\\dictionary\\dictionary.csproj": {}
+    "d:\\Bootcamp\\Formulatrix\\randomnumber\\randomnumber.csproj": {}
   },
   "projects": {
-    "d:\\Bootcamp\\Formulatrix\\dictionary\\dictionary.csproj": {
+    "d:\\Bootcamp\\Formulatrix\\randomnumber\\randomnumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Bootcamp\\Formulatrix\\dictionary\\dictionary.csproj",
-        "projectName": "dictionary",
-        "projectPath": "d:\\Bootcamp\\Formulatrix\\dictionary\\dictionary.csproj",
+        "projectUniqueName": "d:\\Bootcamp\\Formulatrix\\randomnumber\\randomnumber.csproj",
+        "projectName": "randomnumber",
+        "projectPath": "d:\\Bootcamp\\Formulatrix\\randomnumber\\randomnumber.csproj",
         "packagesPath": "C:\\Users\\mr user\\.nuget\\packages\\",
-        "outputPath": "d:\\Bootcamp\\Formulatrix\\dictionary\\obj\\",
+        "outputPath": "d:\\Bootcamp\\Formulatrix\\randomnumber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mr user\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7fO+csCLld2G00RdjWF1CrQGzq44H65/EHEmIDDgKNhrmPEU0doeS5pZD6R9KtQ4MJHeavNWZOpweK+jsoKrZw==",
+  "dgSpecHash": "G1HBTBfDrzInJv/DEOBaLFWj8fm/AQE2Upn2lY3d+XbKZ3IOt4A2Lo8zYS+0rRpsiR4OzHdnHQF0e3Xa5biNAQ==",
   "success": true,
-  "projectFilePath": "D:\\Bootcamp\\Formulatrix\\dictionary\\dictionary.csproj",
+  "projectFilePath": "d:\\Bootcamp\\Formulatrix\\dictionary\\dictionary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

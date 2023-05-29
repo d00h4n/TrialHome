@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Bootcamp\\Formulatrix\\dictionary\\dictionary.csproj": {}
+    "D:\\Bootcamp\\Formulatrix\\foobar\\foobar.csproj": {}
   },
   "projects": {
-    "d:\\Bootcamp\\Formulatrix\\dictionary\\dictionary.csproj": {
+    "D:\\Bootcamp\\Formulatrix\\foobar\\foobar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Bootcamp\\Formulatrix\\dictionary\\dictionary.csproj",
-        "projectName": "dictionary",
-        "projectPath": "d:\\Bootcamp\\Formulatrix\\dictionary\\dictionary.csproj",
+        "projectUniqueName": "D:\\Bootcamp\\Formulatrix\\foobar\\foobar.csproj",
+        "projectName": "foobar",
+        "projectPath": "D:\\Bootcamp\\Formulatrix\\foobar\\foobar.csproj",
         "packagesPath": "C:\\Users\\mr user\\.nuget\\packages\\",
-        "outputPath": "d:\\Bootcamp\\Formulatrix\\dictionary\\obj\\",
+        "outputPath": "D:\\Bootcamp\\Formulatrix\\foobar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mr user\\AppData\\Roaming\\NuGet\\NuGet.Config"
