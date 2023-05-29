@@ -17,7 +17,7 @@ class Program {
         myDict.Add("Glory", "Crome" );
         myDict.Add("Lux", "Liv"  );
 
-
+        
         name1 = Console.ReadLine();
         name2 = Console.ReadLine();
         // To get count of key/value
