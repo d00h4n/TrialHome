@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Bootcamp\\Formulatrix\\foobar\\foobar.csproj": {}
+    "D:\\Bootcamp\\Formulatrix\\Scrambel\\Scrambel.csproj": {}
   },
   "projects": {
-    "d:\\Bootcamp\\Formulatrix\\foobar\\foobar.csproj": {
+    "D:\\Bootcamp\\Formulatrix\\Scrambel\\Scrambel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Bootcamp\\Formulatrix\\foobar\\foobar.csproj",
-        "projectName": "foobar",
-        "projectPath": "d:\\Bootcamp\\Formulatrix\\foobar\\foobar.csproj",
+        "projectUniqueName": "D:\\Bootcamp\\Formulatrix\\Scrambel\\Scrambel.csproj",
+        "projectName": "Scrambel",
+        "projectPath": "D:\\Bootcamp\\Formulatrix\\Scrambel\\Scrambel.csproj",
         "packagesPath": "C:\\Users\\mr user\\.nuget\\packages\\",
-        "outputPath": "d:\\Bootcamp\\Formulatrix\\foobar\\obj\\",
+        "outputPath": "D:\\Bootcamp\\Formulatrix\\Scrambel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mr user\\AppData\\Roaming\\NuGet\\NuGet.Config"
