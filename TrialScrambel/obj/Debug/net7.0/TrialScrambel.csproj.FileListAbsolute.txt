@@ -1,0 +1,15 @@
+D:\Bootcamp\Formulatrix\TrialScrambel\bin\Debug\net7.0\TrialScrambel.exe
+D:\Bootcamp\Formulatrix\TrialScrambel\bin\Debug\net7.0\TrialScrambel.deps.json
+D:\Bootcamp\Formulatrix\TrialScrambel\bin\Debug\net7.0\TrialScrambel.runtimeconfig.json
+D:\Bootcamp\Formulatrix\TrialScrambel\bin\Debug\net7.0\TrialScrambel.dll
+D:\Bootcamp\Formulatrix\TrialScrambel\bin\Debug\net7.0\TrialScrambel.pdb
+D:\Bootcamp\Formulatrix\TrialScrambel\obj\Debug\net7.0\TrialScrambel.csproj.AssemblyReference.cache
+D:\Bootcamp\Formulatrix\TrialScrambel\obj\Debug\net7.0\TrialScrambel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp\Formulatrix\TrialScrambel\obj\Debug\net7.0\TrialScrambel.AssemblyInfoInputs.cache
+D:\Bootcamp\Formulatrix\TrialScrambel\obj\Debug\net7.0\TrialScrambel.AssemblyInfo.cs
+D:\Bootcamp\Formulatrix\TrialScrambel\obj\Debug\net7.0\TrialScrambel.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Formulatrix\TrialScrambel\obj\Debug\net7.0\TrialScrambel.dll
+D:\Bootcamp\Formulatrix\TrialScrambel\obj\Debug\net7.0\refint\TrialScrambel.dll
+D:\Bootcamp\Formulatrix\TrialScrambel\obj\Debug\net7.0\TrialScrambel.pdb
+D:\Bootcamp\Formulatrix\TrialScrambel\obj\Debug\net7.0\TrialScrambel.genruntimeconfig.cache
+D:\Bootcamp\Formulatrix\TrialScrambel\obj\Debug\net7.0\ref\TrialScrambel.dll
