@@ -3,14 +3,20 @@ using System.Collections.Generic;
 
 public enum StatusPlayer
 {
-    Active,
-    Inactive,
-    Disqualified
+    Win,
+    Lose,
+    Pass,
+    Playing,
+    TimeOut,
+    SwapLetter
 }
 
 public interface ITiles
 {
     // Interface definition goes here
+    public void GetLetter() {
+        
+    }
 }
 
 public interface IBoard
