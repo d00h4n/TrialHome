@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Bootcamp\\Formulatrix\\TrialScrambel\\TrialScrambel.csproj": {}
+    "D:\\Bootcamp\\Formulatrix\\TrialScrambel\\TrialScrambel.csproj": {}
   },
   "projects": {
-    "d:\\Bootcamp\\Formulatrix\\TrialScrambel\\TrialScrambel.csproj": {
+    "D:\\Bootcamp\\Formulatrix\\TrialScrambel\\TrialScrambel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Bootcamp\\Formulatrix\\TrialScrambel\\TrialScrambel.csproj",
+        "projectUniqueName": "D:\\Bootcamp\\Formulatrix\\TrialScrambel\\TrialScrambel.csproj",
         "projectName": "TrialScrambel",
-        "projectPath": "d:\\Bootcamp\\Formulatrix\\TrialScrambel\\TrialScrambel.csproj",
+        "projectPath": "D:\\Bootcamp\\Formulatrix\\TrialScrambel\\TrialScrambel.csproj",
         "packagesPath": "C:\\Users\\mr user\\.nuget\\packages\\",
-        "outputPath": "d:\\Bootcamp\\Formulatrix\\TrialScrambel\\obj\\",
+        "outputPath": "D:\\Bootcamp\\Formulatrix\\TrialScrambel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mr user\\AppData\\Roaming\\NuGet\\NuGet.Config"
